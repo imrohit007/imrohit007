@@ -22,7 +22,7 @@
 <a href="https://twitter.com/_ninza7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ninza7" height="30" width="40" /></a>
 <a href="https://instagram.com/_ninza7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ninza7" height="30" width="40" /></a>
 <a href="https://medium.com/@ninza7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ninza7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucltavheuooyc4afia1o6xyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucltavheuooyc4afia1o6xyg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucltavheuooyc4afia1o6xyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucltavheuooyc4afia1o6xyg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
